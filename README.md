@@ -1,3 +1,4 @@
+![MasterHead](https://media.discordapp.net/attachments/769320759038181408/1098168098164584538/Banner.jpg?width=1440&height=377)
 # 💫 About Me:
 🤝 I’m looking for help with Back-end dev<br>🌱 I’m currently studying Software Eng
 
