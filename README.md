@@ -1,4 +1,4 @@
-![MasterHead]([https://media.discordapp.net/attachments/809638296447483944/1229415669997637736/Artboard_1.jpg?ex=662f9991&is=661d2491&hm=13967c89b6eeb06eb2c2c23ef7b5655768c7d8c30b376e202be7b4d8711dce06&=&format=webp&width=1193&height=671])
+<img src="me.jpg"></img>
 # 💫 About Me:
 🤝 I’m looking for help with Back-end dev<br>🌱 I’m currently studying Software Eng
 
