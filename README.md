@@ -1,4 +1,4 @@
-<img src="me.jpg"></img>
+
 # 💫 About Me:
 🤝 I’m looking for help with Back-end dev<br>🌱 I’m currently studying Software Eng
 
