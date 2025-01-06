@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Brian and I'm a Full-stack web developer, from Sri Lanka 🇱🇰</h2>
 
 ###
 
@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -57,3 +53,29 @@
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=IroshanBrian&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IroshanBrian&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/IroshanBrian/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/p8jg8rzcrymgn6cka08o2c79z">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p8jg8rzcrymgn6cka08o2c79z&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
