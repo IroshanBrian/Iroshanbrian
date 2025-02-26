@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋! My name is Brian and I'm a Full-stack web developer, from Sri Lanka 🇱🇰</h2>
 
 ###
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IroshanBrian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ###
 
 <div align="center">
